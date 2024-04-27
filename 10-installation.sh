@@ -27,7 +27,7 @@ then
     echo "Installation of mysql...FAILURE"
     exit 1
 else
-    Installation of Git...FAILURE"
+    echo Installation of Git...FAILURE"
 fi
 
 echo "is script proceeding?"
