@@ -1,6 +1,6 @@
 #!/BIN/BASH
 
-number=$1
+Number=$1
 
 if [$NUMBER -gt 10 ]
 then
@@ -8,4 +8,4 @@ then
 else 
     echo "Given number $NUMBER is less than 10"
 fi
-        
+[]
